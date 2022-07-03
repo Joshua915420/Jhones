@@ -142,7 +142,7 @@
                 <li><span>44 Zarmai, Street</span></li>
                 <li><span>Kaduna, Nigeria</span></li>
                 <li><span>+2349036622078</span></li>
-                <li><span>Jaytechnology@gmail.com</span></li>
+                <li><span>Jaytechnology10@gmail.com</span></li>
               </ul>
 
             </div>
