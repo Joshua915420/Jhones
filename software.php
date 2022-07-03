@@ -120,7 +120,7 @@
         <div class="col-lg-6 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
           <div class="icon-box">
             <div class="icon"><i class="bx bx-file"></i></div>
-            <span  class="ins">Online Banking System</span>
+            <span  class="ins">Online Banking</span>
            
           </div>
         </div>
@@ -128,7 +128,7 @@
         <div class="col-lg-6 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
           <div class="icon-box">
             <div class="icon"><i class="bx bx-tachometer"></i></div>
-            <span  class="ins">Event Ticketing System</span>
+            <span  class="ins">Event Ticketing</span>
             
           </div>
         </div>
