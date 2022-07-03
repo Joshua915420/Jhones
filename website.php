@@ -29,6 +29,9 @@
   <!-- Responsive css -->
   <link href="css/responsive.css" rel="stylesheet">
 
+
+
+ 
 </head>
 
 <body>
@@ -47,8 +50,8 @@
         <ul class="nav-menu list-unstyled">
           <li><a href="#header" class="smoothScroll">Home</a></li>
           <li><a href="#about" class="smoothScroll">About</a></li>
-          <li><a href="#port" class="smoothScroll">Portfolio</a></li>
-          <li><a href="#journal" class="smoothScroll">Team</a></li>
+          <li><a href="#portfolio" class="smoothScroll">Portfolio</a></li>
+          <li><a href="#journal" class="smoothScroll">Blog</a></li>
           <li><a href="#contact" class="smoothScroll">Contact</a></li>
         </ul>
 
@@ -58,106 +61,7 @@
   <!-- End section navbar -->
 
 
-  <!-- start section header -->
-  <div id="header" class="home">
 
-    <div class="container">
-      <div class="header-content">
-        <h1>I'm <span class="typed"></span></h1>
-        <p>designer, developer, engineer</p>
-
-        <ul class="list-unstyled list-social">
-          <li><a href="https://web.facebook.com/profile.php?id=100082720623656"><i class="ion-social-facebook"></i></a></li>
-          <li><a href="#"><i class="ion-social-twitter"></i></a></li>
-          <li><a href="https://www.instagram.com/the_jaytech/"><i class="ion-social-instagram"></i></a></li>
-         
-        </ul>
-      </div>
-    </div>
-  </div>
-  <!-- End section header -->
-
-
-  <!-- start section about us -->
-  <div id="about" class="paddsection">
-    <div class="container">
-      <div class="row justify-content-between">
-
-        <div class="col-lg-4 ">
-          <div class="div-img-bg">
-            <div class="about-img">
-              <img src="images/me.jpg" class="img-responsive" alt="me">
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-7">
-          <div class="about-descr">
-
-            <p class="p-heading">I'm a software engineer with many years of experience in the industry. In the past years I've built websites, mobile apps, and also implemented ERP systems for many businesses. </p>
-            <p class="separator">Jaytech is a tech based company located in Kaduna, Nigeria. It was founded by me, and has now grown to a team of three. Our mission is to help businesses grow with the help of technology. </p>
-
-          </div>
-
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- end section about us -->
-
-
-  <!-- start section services -->
-  <div id="services">
-    <div class="container">
-
-        <div class="services-carousel owl-theme">
-
-          <div class="services-block">
-
-            <i class="ion-ios-browsers-outline"></i>
-            <span>Websites</span>
-
-          </div>
-
-          <div class="services-block">
-
-            <i class="ion-ios-lightbulb-outline"></i>
-            <span>Mobile Apps</span>
-         
-
-          </div>
-
-          <div class="services-block">
-
-            <i class="ion-ios-color-wand-outline"></i>
-            <span>ERP systems</span>
-            
-
-          </div>
-
-          <div class="services-block">
-
-            <i class="ion-social-android-outline"></i>
-            <span>UI/UX Design</span>
-           
-
-          </div>
-
-          <div class="services-block">
-
-            <i class="ion-ios-analytics-outline"></i>
-            <span>Graphics Design</span>
-           
-
-          </div>
-
-
-        </div>
-
-    </div>
-
-  </div>
-  <!-- end section services -->
 
 
 
@@ -170,7 +74,7 @@
   <section id="port" class="port">
 
     <div class="section-title text-center">
-        <h2>PORTFOLIO</h2>
+        <h2>Websites</h2>
       </div>
 
         <div id="service" class="service">
@@ -184,32 +88,48 @@
         <div class="col-lg-6 col-md-6 d-flex align-items-stretch">
           <div class="icon-box">
             <div class="icon"><i class="bx bxl-dribbble"></i></div>
-            <span class="ins">Website Applications</span>
-            <button class="demo"><a href="website.php">See More</a></button>
+            <span class="ins">Investment Website</span>
+            
           </div>
         </div>
 
         <div class="col-lg-6 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
           <div class="icon-box">
             <div class="icon"><i class="bx bx-file"></i></div>
-            <span  class="ins">Mobile Applications</span>
-            <button class="demo"><a href="app.php">See More</a></button>
+            <span  class="ins">Blockchain Website</span>
+           
+          </div>
+        </div>
+
+         <div class="col-lg-6 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+          <div class="icon-box">
+            <div class="icon"><i class="bx bx-file"></i></div>
+            <span  class="ins">Ecommerce Website</span>
+           
+          </div>
+        </div>
+
+        <div class="col-lg-6 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+          <div class="icon-box">
+            <div class="icon"><i class="bx bx-file"></i></div>
+            <span  class="ins">Blog Website</span>
+           
+          </div>
+        </div>
+
+        <div class="col-lg-6 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+          <div class="icon-box">
+            <div class="icon"><i class="bx bx-file"></i></div>
+            <span  class="ins">Online class Website</span>
+           
           </div>
         </div>
 
         <div class="col-lg-6 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
           <div class="icon-box">
             <div class="icon"><i class="bx bx-tachometer"></i></div>
-            <span  class="ins">Software Applications</span>
-            <button class="demo"><a href="software.php">See More</a></button>
-          </div>
-        </div>
-
-         <div class="col-lg-6 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-          <div class="icon-box">
-            <div class="icon"><i class="bx bx-tachometer"></i></div>
-            <span  class="ins">Graphics Design</span>
-            <button class="demo"><a href="graphics.php">See More</a></button>
+            <span  class="ins">E-business Website</span>
+            
           </div>
         </div>
 
@@ -221,72 +141,6 @@
 
 
 
-
-
-  <!-- start section journal -->
-  <div id="journal" class="text-left paddsection">
-
-    <div class="container">
-      <div class="section-title text-center">
-        <h2>OUR TEAM</h2>
-      </div>
-    </div>
-
-    <div class="container">
-      <div class="journal-block">
-        <div class="row">
-
-          <div class="col-lg-4 col-md-6">
-            <div class="journal-info">
-
-              <a href="blog-single.html"><img src="images/blog-post-1.jpg" class="img-responsive" alt="img"></a>
-
-              <div class="journal-txt">
-
-                <h4><a href="blog-single.html">SOFTWARE ENGINEER</a></h4>
-                <p class="seperator">JOSHUA HONEST</p>
-
-              </div>
-
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6">
-            <div class="journal-info">
-
-              <a href="blog-single.html"><img src="images/blog-post-2.jpg" class="img-responsive" alt="img"></a>
-
-              <div class="journal-txt">
-
-                <h4><a href="#blog-single.html">GRAPHICS DESIGNER</a></h4>
-                <p class="seperator">VICTOR NUHU</p>
-
-              </div>
-
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6">
-            <div class="journal-info">
-
-              <a href="blog-single.html"><img src="images/blog-post-3.jpg" class="img-responsive" alt="img"></a>
-
-              <div class="journal-txt">
-
-                <h4><a href="blog-single.html">UI/UX DESIGNER</a></h4>
-                <p class="seperator">EMMANUEL</p>
-
-              </div>
-
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-  </div>
-  <!-- End section journal -->
 
 
   <!-- start sectoion contact -->
